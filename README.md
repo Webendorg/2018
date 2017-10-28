@@ -18,4 +18,4 @@
 
 ### Katkı
 
-2018 Webend tamamen katılıma açıktır. Tüm konular https://github.com/Webendorg/2018/issues üzerinden tartışılacak ve karara bağlanacaktır.
+2018 Webend tamamen katılıma açıktır. Tüm konular [issues](https://github.com/Webendorg/2018/issues) üzerinden tartışılacak ve karara bağlanacaktır.
