@@ -15,6 +15,7 @@
 - [ ] Promosyon ürünler
 - [ ] Konuşmacılar adına yapılacak bağış
 - [ ] Spontane İngilizce çeviri (Türkçe'den İngilizce'ye)
+- [ ] Video kayıt
 
 ### Katkı
 
