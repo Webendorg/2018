@@ -2,20 +2,20 @@
 
 ### Planlar
 
-- [ ] Konuşmacılar
-- [ ] Sponsorlar
-- [ ] Mekan
-- [ ] Tarih
-- [ ] Konsept
-- [ ] Süre
-- [ ] Atölyeler
+- [ ] [Konuşmacılar](https://github.com/Webendorg/2018/issues/2)
+- [ ] [Sponsorlar](https://github.com/Webendorg/2018/issues/8)
+- [ ] [Mekan](https://github.com/Webendorg/2018/issues/1)
+- [ ] [Tarih](https://github.com/Webendorg/2018/issues/3)
+- [ ] [Konsept](https://github.com/Webendorg/2018/issues/4)
+- [ ] [Süre](https://github.com/Webendorg/2018/issues/5)
+- [ ] [Atölyeler](https://github.com/Webendorg/2018/issues/6)
 - [ ] Web sayfası
 - [ ] Akşam eğlencesi
 - [ ] Reklamlar
 - [ ] Promosyon ürünler
 - [ ] Konuşmacılar adına yapılacak bağış
 - [ ] Spontane İngilizce çeviri (Türkçe'den İngilizce'ye)
-- [ ] Video kayıt
+- [ ] [Video kayıt](https://github.com/Webendorg/2018/issues/7)
 
 ### Katkı
 
