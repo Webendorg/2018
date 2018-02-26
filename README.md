@@ -8,7 +8,6 @@
 - [x] [Tarih](https://github.com/Webendorg/2018/issues/3) [26 Mayıs Cumartesi]
 - [x] [Konsept](https://github.com/Webendorg/2018/issues/4) [Açık Kaynak]
 - [ ] [Süre](https://github.com/Webendorg/2018/issues/5)
-- [ ] [Atölyeler](https://github.com/Webendorg/2018/issues/6)
 - [ ] Web sayfası
 - [ ] Akşam eğlencesi
 - [ ] Reklamlar
