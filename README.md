@@ -7,7 +7,7 @@
 - [x] [Mekan](https://github.com/Webendorg/2018/issues/1) [Ankara - TOBB ETÜ]
 - [x] [Tarih](https://github.com/Webendorg/2018/issues/3) [26 Mayıs Cumartesi]
 - [x] [Konsept](https://github.com/Webendorg/2018/issues/4) [Açık Kaynak]
-- [ ] [Süre](https://github.com/Webendorg/2018/issues/5)
+- [x] [Süre](https://github.com/Webendorg/2018/issues/5) [1 Gün]
 - [ ] [Web sayfası](https://github.com/Webendorg/2018/issues/12)
 - [ ] [Akşam eğlencesi](https://github.com/Webendorg/2018/issues/13)
 - [ ] Reklamlar
