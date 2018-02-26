@@ -9,7 +9,7 @@
 - [x] [Konsept](https://github.com/Webendorg/2018/issues/4) [Açık Kaynak]
 - [ ] [Süre](https://github.com/Webendorg/2018/issues/5)
 - [ ] [Web sayfası](https://github.com/Webendorg/2018/issues/12)
-- [ ] Akşam eğlencesi
+- [ ] [Akşam eğlencesi](https://github.com/Webendorg/2018/issues/13)
 - [ ] Reklamlar
 - [ ] Promosyon ürünler
 - [ ] Konuşmacılar adına yapılacak bağış
