@@ -4,8 +4,8 @@
 
 - [ ] [Konuşmacılar](https://github.com/Webendorg/2018/issues/2)
 - [ ] [Sponsorlar](https://github.com/Webendorg/2018/issues/8)
-- [x] [Mekan](https://github.com/Webendorg/2018/issues/1) [Ankara]
-- [ ] [Tarih](https://github.com/Webendorg/2018/issues/3)
+- [x] [Mekan](https://github.com/Webendorg/2018/issues/1) [Ankara - TOBB ETÜ]
+- [x] [Tarih](https://github.com/Webendorg/2018/issues/3) [26 Mayıs Cumartesi]
 - [x] [Konsept](https://github.com/Webendorg/2018/issues/4) [Açık Kaynak]
 - [ ] [Süre](https://github.com/Webendorg/2018/issues/5)
 - [ ] [Atölyeler](https://github.com/Webendorg/2018/issues/6)
