@@ -2,19 +2,37 @@
 
 ### Planlar
 
-- [ ] [Konuşmacılar](https://github.com/Webendorg/2018/issues/2)
+- [ ] [Konuşmacılar](#konuşmacılar)
 - [ ] [Sponsorlar](https://github.com/Webendorg/2018/issues/8)
-- [x] [Mekan](https://github.com/Webendorg/2018/issues/1) [Ankara - TOBB ETÜ]
-- [x] [Tarih](https://github.com/Webendorg/2018/issues/3) [26 Mayıs Cumartesi]
-- [x] [Konsept](https://github.com/Webendorg/2018/issues/4) [Açık Kaynak]
-- [x] [Süre](https://github.com/Webendorg/2018/issues/5) [1 Gün]
+- [x] [Mekan](#mekan) [Ankara - TOBB ETÜ]
+- [x] [Tarih](#tarih) [26 Mayıs Cumartesi]
+- [x] [Konsept](#konsept) [Açık Kaynak] 
 - [ ] [Web sayfası](https://github.com/Webendorg/2018/issues/12)
 - [ ] [Akşam eğlencesi](https://github.com/Webendorg/2018/issues/13)
 - [ ] Reklamlar
 - [ ] Promosyon ürünler
 - [ ] Konuşmacılar adına yapılacak bağış
-- [ ] Spontane İngilizce çeviri (Türkçe'den İngilizce'ye)
 - [ ] [Video kayıt](https://github.com/Webendorg/2018/issues/7)
+
+#### Konuşmacılar
+- Enis Bayramoğlu - @enobayram
+- Fatih Kadir Akın - @f
+- Orkun Murat Yılmaz - 
+
+#### Mekan
+
+Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Etkinlik cumartesi günü yapılacağı için etkinlik yerine üniversite servisleriyle ulaşım sağlanabilecektir. [Ulaşım](https://www.etu.edu.tr/tr/ulasim) sayfasında cumartesi servisleri saatleri mevcuttur.
+
+#### Tarih
+
+Webend v4.5.26 , 26 Mayıs Cumartesi günü tam günlük bir etkinlik olarak gerçekleştirilecektir. Etkinlik saat 9:30dan 18:00 a kadar sürecektir.
+
+#### Konsept
+
+Webend v4.5.26, Açık Kaynak odaklı konuşmalardan oluşacaktır. Hikaye anlatım tarzları ile tüm değerli konuşmacılarımız kendi belirledikleri projeler üzerinden - ki içerisinde yer aldıkları açık kaynaklı projeler olacak - Açık Kaynak dünyası hakkında gerçek hayat tecrübelerini aktaracaklar. 
+
+Bir projenin açık kaynaklı olması nedir sorusundan, açık kaynak'da para varmış hikayelerine kadar geniş bir yelpazede eğlenceli konuşmalar gerçekleştirilecek.
+
 
 ### Katkı
 
