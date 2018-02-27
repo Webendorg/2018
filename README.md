@@ -15,9 +15,9 @@
 - [ ] [Video kayıt](https://github.com/Webendorg/2018/issues/7)
 
 #### Konuşmacılar
-- Enis Bayramoğlu - @enobayram
-- Fatih Kadir Akın - @f
-- Orkun Murat Yılmaz - 
+- Enis Bayramoğlu - [@enobayram](https://github.com/enobayram)
+- Fatih Kadir Akın - [@f](https://github.com/f)
+- Orkun Murat Yılmaz 
 
 #### Mekan
 
