@@ -18,6 +18,9 @@
 - Enis Bayramoğlu - [@enobayram](https://github.com/enobayram)
 - Fatih Kadir Akın - [@f](https://github.com/f)
 - Orkun Murat Yılmaz 
+- Gülşah Köse - [@GulsahKose](https://github.com/GulsahKose)
+- Eser Özvataf - [@EserOzvataf](https://github.com/eserozvataf)
+- Fatih Altınok - [@frontsideair](https://github.com/frontsideair)
 
 #### Mekan
 
