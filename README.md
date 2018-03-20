@@ -47,7 +47,7 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 
 |Konu| Konuşmacı | Başlangıç | Süre |
 |----|-----------|-----------|------|
-||Enis 	Bayramoğlu	|10:00| 30Dk
+|Trilyon Dolarlık Ekipman!|Enis 	Bayramoğlu	|10:00| 30Dk
 |Drupal ve Symfony Bir Arada |Orkun Murat	Yılmaz	|10:45| " |
 ||Eser	Özvataf	|11:30| " |
 ||Fatih Kadir	Akın|	13:00| " |
