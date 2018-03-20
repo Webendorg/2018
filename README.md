@@ -35,7 +35,7 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 #### Konuşmacılar
 - Enis Bayramoğlu - [@enobayram](https://github.com/enobayram)
 - Fatih Kadir Akın - [@f](https://github.com/f)
-- Orkun Murat Yılmaz 
+- Orkut Murat Yılmaz [@orkutmuratyilmaz](https://github.com/orkutmuratyilmaz)
 - Gülşah Köse - [@GulsahKose](https://github.com/GulsahKose) - 
 - Eser Özvataf - [@EserOzvataf](https://github.com/eserozvataf)
 - Fatih Altınok - [@frontsideair](https://github.com/frontsideair)
@@ -48,7 +48,7 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 |Konu| Konuşmacı | Başlangıç | Süre |
 |----|-----------|-----------|------|
 |Trilyon Dolarlık Ekipman!|Enis 	Bayramoğlu	|10:00| 30Dk
-|Drupal ve Symfony Bir Arada |Orkun Murat	Yılmaz	|10:45| " |
+|Drupal ve Symfony Bir Arada |Orkut Murat	Yılmaz	|10:45| " |
 ||Eser	Özvataf	|11:30| " |
 ||Fatih Kadir	Akın|	13:00| " |
 |LibreOffice'te hata analizi ve çözüm planlama|Gülşah 	Köse	|13:45| " |
