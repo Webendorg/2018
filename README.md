@@ -34,16 +34,16 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 
 #### Konuşmacılar
 - Elçin Ekşi - [@amaeksi](https://github.com/amaeksi) - Biyolog, Girişimci - Eres Biotech
-- Enis Bayramoğlu - [@enobayram](https://github.com/enobayram) - 
-- Fatih Kadir Akın - [@f](https://github.com/f)
-- Orkut Murat Yılmaz [@orkutmuratyilmaz](https://github.com/orkutmuratyilmaz)
-- Gülşah Köse - [@GulsahKose](https://github.com/GulsahKose) - 
-- Eser Özvataf - [@EserOzvataf](https://github.com/eserozvataf)
-- Fatih Altınok - [@frontsideair](https://github.com/frontsideair)
-- Gökhan	Boranalp - [@kunthar](https://github.com/kunthar)
-- Ömer Çıtak - [@Om3rCitak](https://github.com/Om3rCitak)
-- Çağatay Çalı - [@cagataycali](https://github.com/cagataycali)
-- Alper Kürşat - [@alpeer](https://github.com/alpeer)
+- Enis Bayramoğlu - [@enobayram](https://github.com/enobayram) - Haskell Back-End Developer @ Picus Security
+- Fatih Kadir Akın - [@f](https://github.com/f) - Full Stack Developer at Protel Inc.
+- Orkut Murat Yılmaz [@orkutmuratyilmaz](https://github.com/orkutmuratyilmaz) - Drupal, OpenStreetMap, GeoSpatial
+- Gülşah Köse - [@GulsahKose](https://github.com/GulsahKose) - LibreOffice developer/ Member of The Document Foundation
+- Eser Özvataf - [@EserOzvataf](https://github.com/eserozvataf) - Software Architect KoçSistem 
+- Fatih Altınok - [@frontsideair](https://github.com/frontsideair) - Frontend Developer @ Picus Security 
+- Gökhan	Boranalp - [@kunthar](https://github.com/kunthar) - ZetaOps
+- Ömer Çıtak - [@Om3rCitak](https://github.com/Om3rCitak) - Security Researcher at Netsparker
+- Çağatay Çalı - [@cagataycali](https://github.com/cagataycali) - Software Engineer - Freelance 
+- Alper Kürşat - [@alpeer](https://github.com/alpeer) - Javascript Developer - ilgilenio :registered:
 
 #### Program
 
