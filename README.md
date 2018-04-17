@@ -33,7 +33,8 @@ Webend v4.5.26 , 26 Mayıs Cumartesi günü tam günlük bir etkinlik olarak ger
 Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Etkinlik cumartesi günü yapılacağı için etkinlik yerine üniversite servisleriyle ulaşım sağlanabilecektir. [Ulaşım](https://www.etu.edu.tr/tr/ulasim) sayfasında cumartesi servisleri saatleri mevcuttur.
 
 #### Konuşmacılar
-- Enis Bayramoğlu - [@enobayram](https://github.com/enobayram)
+- Elçin Ekşi - [@amaeksi](https://github.com/amaeksi) - Biyolog, Girişimci - Eres Biotech
+- Enis Bayramoğlu - [@enobayram](https://github.com/enobayram) - 
 - Fatih Kadir Akın - [@f](https://github.com/f)
 - Orkut Murat Yılmaz [@orkutmuratyilmaz](https://github.com/orkutmuratyilmaz)
 - Gülşah Köse - [@GulsahKose](https://github.com/GulsahKose) - 
@@ -42,11 +43,13 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 - Gökhan	Boranalp - [@kunthar](https://github.com/kunthar)
 - Ömer Çıtak - [@Om3rCitak](https://github.com/Om3rCitak)
 - Çağatay Çalı - [@cagataycali](https://github.com/cagataycali)
+- Alper Kürşat - [@alpeer](https://github.com/alpeer)
 
 #### Program
 
 |Konu| Konuşmacı | Başlangıç | Süre |
 |----|-----------|-----------|------|
+|Bilim Herkese Lazım | Elçin Ekşi | 09:40 | 20DK
 |Trilyon Dolarlık Ekipman!|Enis 	Bayramoğlu	|10:00| 30Dk
 |Drupal ve Symfony Bir Arada |Orkut Murat	Yılmaz	|10:45| " |
 ||Eser	Özvataf	|11:30| " |
@@ -56,6 +59,7 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 |Ulakbus Macerası|Gökhan	Boranalp	|15:15| " |
 ||Ömer	Citak	|16:00| " |
 ||Çağatay	Çalı|16:40| 20DK |
+||Alper Kürşat|16:50| 20DK |
 
 
 
