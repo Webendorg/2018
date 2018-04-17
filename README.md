@@ -33,17 +33,19 @@ Webend v4.5.26 , 26 Mayıs Cumartesi günü tam günlük bir etkinlik olarak ger
 Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Etkinlik cumartesi günü yapılacağı için etkinlik yerine üniversite servisleriyle ulaşım sağlanabilecektir. [Ulaşım](https://www.etu.edu.tr/tr/ulasim) sayfasında cumartesi servisleri saatleri mevcuttur.
 
 #### Konuşmacılar
-- Elçin Ekşi - [@amaeksi](https://github.com/amaeksi) - Biyolog, Girişimci - Eres Biotech ![Elçin](https://avatars2.githubusercontent.com/u/25742322?s=50&v=4)
-- Enis Bayramoğlu - [@enobayram](https://github.com/enobayram) - Haskell Back-End Developer @ Picus Security ![Enis](https://avatars2.githubusercontent.com/u/1258139?s=50&v=4)
-- Fatih Kadir Akın - [@f](https://github.com/f) - Full Stack Developer at Protel Inc. ![Fka](https://avatars2.githubusercontent.com/u/196477?s=50&v=4)
-- Orkut Murat Yılmaz [@orkutmuratyilmaz](https://github.com/orkutmuratyilmaz) - Drupal, OpenStreetMap, GeoSpatial ![Orkut](https://avatars2.githubusercontent.com/u/7395916?s=50&v=4)
-- Gülşah Köse - [@GulsahKose](https://github.com/GulsahKose) - LibreOffice developer/ Member of The Document Foundation ![Gülşah](https://avatars2.githubusercontent.com/u/2954981?s=50&v=4)
-- Eser Özvataf - [@EserOzvataf](https://github.com/eserozvataf) - Software Architect KoçSistem ![Eser](https://avatars2.githubusercontent.com/u/866558?s=50&v=4)
-- Fatih Altınok - [@frontsideair](https://github.com/frontsideair) - Frontend Developer @ Picus Security ![Fatih](https://avatars2.githubusercontent.com/u/868283?s=50&v=4)
-- Gökhan	Boranalp - [@kunthar](https://github.com/kunthar) - ZetaOps ![Gökhan](https://avatars2.githubusercontent.com/u/49767?s=50&v=4)
-- Ömer Çıtak - [@Om3rCitak](https://github.com/Om3rCitak) - Security Researcher at Netsparker ![Ömer](https://avatars2.githubusercontent.com/u/5197413?s=50&v=4)
-- Çağatay Çalı - [@cagataycali](https://github.com/cagataycali) - Software Engineer - Freelance ![Çağatay](https://avatars2.githubusercontent.com/u/9213230?s=50&v=4)
-- Alper Kürşat - [@alpeer](https://github.com/alpeer) - Javascript Developer - ilgilenio :registered: ![Alper](https://avatars2.githubusercontent.com/u/17167342?s=50&v=4)
+|| Ad | Github | Ünvan | Şirket | 
+|-|-|-|-|-|
+|![Elçin](https://avatars2.githubusercontent.com/u/25742322?s=75&v=4) |Elçin Ekşi | [@amaeksi](https://github.com/amaeksi) | Biyolog, Girişimci | Eres Biotech |
+|![Enis](https://avatars2.githubusercontent.com/u/1258139?s=75&v=4)| Enis Bayramoğlu | [@enobayram](https://github.com/enobayram) | Haskell - Backend Developer | Picus Security |
+|![Fka](https://avatars2.githubusercontent.com/u/196477?s=75&v=4)| Fatih Kadir Akın | [@f](https://github.com/f) | Full Stack Developer | Protel Inc. | 
+|![Orkut](https://avatars2.githubusercontent.com/u/7395916?s=75&v=4)| Orkut Murat Yılmaz |[@orkutmuratyilmaz](https://github.com/orkutmuratyilmaz) | |Drupal, OpenStreetMap, GeoSpatial | 
+|![Gülşah](https://avatars2.githubusercontent.com/u/2954981?s=75&v=4) | Gülşah Köse | [@GulsahKose](https://github.com/GulsahKose) | Developer/Member | LibreOffice/ The Document Foundation|
+|![Eser](https://avatars2.githubusercontent.com/u/866558?s=75&v=4)| Eser Özvataf | [@EserOzvataf](https://github.com/eserozvataf) | Software Architect |KoçSistem | 
+|![Fatih](https://avatars2.githubusercontent.com/u/868283?s=75&v=4)| Fatih Altınok | [@frontsideair](https://github.com/frontsideair) | Frontend Developer | Picus Security | 
+|![Gökhan](https://avatars2.githubusercontent.com/u/49767?s=75&v=4)| Gökhan Boranalp | [@kunthar](https://github.com/kunthar) || ZetaOps |
+| ![Ömer](https://avatars2.githubusercontent.com/u/5197413?s=75&v=4) | Ömer Çıtak | [@Om3rCitak](https://github.com/Om3rCitak) | Security Researcher | Netsparker |
+|![Çağatay](https://avatars2.githubusercontent.com/u/9213230?s=75&v=4)| Çağatay Çalı | [@cagataycali](https://github.com/cagataycali) | Software Engineer | Freelance |
+|![Alper](https://avatars2.githubusercontent.com/u/17167342?s=75&v=4)| Alper Kürşat | [@alpeer](https://github.com/alpeer) | ilgili kişi | ilgilenio®|
 
 #### Program
 
