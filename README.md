@@ -59,7 +59,7 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 |LibreOffice'te hata analizi ve çözüm planlama|Gülşah 	Köse	|13:45| " |
 ||Fatih	Altınok	|14:30| " |
 |Ulakbus Macerası|Gökhan	Boranalp	|15:15| " |
-||Ömer	Citak	|16:00| " |
+|Güvenlik Perspektifinden Open Source |Ömer	Citak	|16:00| " |
 ||Çağatay	Çalı|16:40| 20DK |
 ||Alper Kürşat|16:50| 20DK |
 
