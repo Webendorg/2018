@@ -61,7 +61,7 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 |Ulakbus Macerası|Gökhan	Boranalp	|15:15| " |
 |Güvenlik Perspektifinden Open Source |Ömer	Citak	|16:00| " |
 ||Çağatay	Çalı|16:40| 20DK |
-||Alper Kürşat|16:50| 20DK |
+|⎌ Git ile Kaos Teorisi |Alper Kürşat|17:10| " |
 
 
 
