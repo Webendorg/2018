@@ -57,7 +57,7 @@ Etkinlik TOBB Ekonomi ve Teknoloji Üniversitesi'nde gerçekleştirilecektir. Et
 ||Eser	Özvataf	|11:30| " |
 ||Fatih Kadir	Akın|	13:00| " |
 |LibreOffice'te hata analizi ve çözüm planlama|Gülşah 	Köse	|13:45| " |
-||Fatih	Altınok	|14:30| " |
+|17 Satırla Başlayan Serüven|Fatih	Altınok	|14:30| " |
 |Ulakbus Macerası|Gökhan	Boranalp	|15:15| " |
 |Güvenlik Perspektifinden Open Source |Ömer	Citak	|16:00| " |
 ||Çağatay	Çalı|16:40| 20DK |
